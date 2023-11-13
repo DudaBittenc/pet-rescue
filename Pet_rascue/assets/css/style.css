@@ -11,7 +11,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #858484;
+    background: #e1e8eb;
 }
 
 .container{
@@ -27,7 +27,7 @@ body{
     justify-content: center;
     align-items: center;
     padding: 1rem;
-    background-color: #c8c8c8;
+    background-color: rgb(238, 239, 240);
 }
 
 .form-image img {
@@ -57,14 +57,14 @@ body{
 
 .login-button button{
     border: none;
-    background-color: #7635CB;
+    background-color: #2dc0c0;
     padding: 0.4rem 1rem;
     border-radius: 5px;
     cursor: pointer;
 }
 
 .login-button button:hover {
-    background-color: #6c30ba;
+    background-color: #29adad;
 }
 
 .login-button button a {
@@ -78,7 +78,7 @@ body{
     display: block;
     width: 5rem;
     height: 0.3rem;
-    background-color: #7635CB;
+    background-color: #2dc0c0;
     margin: 0 auto; 
     position: absolute;
     border-radius: 10px;
@@ -110,7 +110,7 @@ body{
 }
 
 .input-box input:focus-visible{
-    outline: 1px solid #7635CB;
+    outline: 1px solid #2dc0c0;
 }
 
 .input-box label,
@@ -150,14 +150,14 @@ body{
     width: 100%;
     margin-top: 2.5rem;
     border: none;
-    background-color: #7635CB;
+    background-color: #2dc0c0;
     padding: 0.62rem;
     border-radius: 5px;
     cursor: pointer;
 }
 
 .continue-button button:hover{
-    background-color: #8a3fec;
+    background-color: #29adad;
 }
 
 .continue-button button a {
